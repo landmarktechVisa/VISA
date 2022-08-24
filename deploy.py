@@ -2,4 +2,4 @@
 echo "Hello world"=shell scripts
 python ('Hello world')= python script
 :wq
-
+print('Hello world')
